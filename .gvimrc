@@ -1,5 +1,3 @@
-"source /usr/share/vim/vimrc_jungo.vim
-
 set guifont=Monospace\ 13
 
 "in order to assure f status
