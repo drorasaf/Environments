@@ -9,3 +9,4 @@ fi
 export PATH="/home/vagrant/anaconda3/bin":$PATH
 conda update -y conda
 conda update -y anaconda
+conda install -y pytest-cov pytest-pep8 coverage
